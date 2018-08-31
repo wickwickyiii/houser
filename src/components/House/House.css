@@ -1,0 +1,33 @@
+.property {
+  background-color: #dedede;
+  padding: 20px;
+  display: flex;
+  word-wrap: break-word;
+  margin: 30px 50px;
+}
+
+.delete {
+  background-color: #fec2c2;
+}
+
+/* padding: 20px;
+  margin: 30px 250px;
+  max-width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  overflow-wrap: break-word;
+}
+
+.delete {
+  background-color: #fec2c2;
+}
+
+.img {
+  object-position: left;
+  min-width: 100%;
+  min-height: 100%;
+  flex-shrink: 0;
+} */

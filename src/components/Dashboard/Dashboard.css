@@ -1,0 +1,20 @@
+.dashboard {
+  background-color: #afd4c0;
+  width: auto;
+  height: auto;
+  margin: 0px auto;
+  float: left;
+  position: relative;
+}
+
+.title {
+  color: #519872;
+}
+
+.header {
+  position: flex;
+}
+
+.linebreak {
+  margin: 50px;
+}
